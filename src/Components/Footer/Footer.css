@@ -1,0 +1,16 @@
+.link_style  {
+    color: azure ;
+    text-decoration: none ;
+}
+
+.anc_style a {
+    color: azure ;
+    text-decoration: none;
+}
+.copy_right a {
+    color: rgba(238, 245, 243, 0.397);
+    text-decoration: none;
+}
+a:hover{
+    color: crimson;
+    }
